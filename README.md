@@ -1,7 +1,7 @@
 - 👋 Name:     @Ling0220
 - 🤖 Language: C/C++/Python
 - 💻 Platform: Linux
-- 💼 Job:      Embedded software engineer (Forcus on camera driver)
+- 💼 Job:      Embedded software engineer (Focus on camera driver)
 
 
 - Lastupdate: 2021-03-25
